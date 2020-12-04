@@ -1,0 +1,30 @@
+body {
+    background: #000000;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: #fafafa;
+}
+
+a {
+    font-size: 22px;
+    color: #d8d8d8;
+}
+
+hr {
+    height: 10px;
+}
+
+.vermelho {
+    background: red;
+}
+
+.azul {
+    background: blue;
+}
+
+.cinza{
+    background: grey;
+}
